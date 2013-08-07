@@ -1,4 +1,4 @@
-PixelAlbum
+PixelPhoto
 ==========
 
-Source code for the Pixel Frame Android app
+This Android sends a photo to PIXEL, an LED based art display
